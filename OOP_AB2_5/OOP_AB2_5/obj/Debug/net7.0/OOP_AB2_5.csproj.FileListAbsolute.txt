@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\bin\Debug\net7.0\OOP_AB2_5.exe
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\bin\Debug\net7.0\OOP_AB2_5.deps.json
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\bin\Debug\net7.0\OOP_AB2_5.runtimeconfig.json
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\bin\Debug\net7.0\OOP_AB2_5.dll
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\bin\Debug\net7.0\OOP_AB2_5.pdb
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.dll
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\refint\OOP_AB2_5.dll
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.pdb
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\OOP_AB2_5.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Dokumente\HF\PAD\OOP_AB2_5\OOP_AB2_5\obj\Debug\net7.0\ref\OOP_AB2_5.dll
