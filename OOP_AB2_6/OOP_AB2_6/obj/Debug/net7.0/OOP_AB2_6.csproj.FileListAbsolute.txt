@@ -1,0 +1,15 @@
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\bin\Debug\net7.0\OOP_AB2_6.exe
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\bin\Debug\net7.0\OOP_AB2_6.deps.json
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\bin\Debug\net7.0\OOP_AB2_6.runtimeconfig.json
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\bin\Debug\net7.0\OOP_AB2_6.dll
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\bin\Debug\net7.0\OOP_AB2_6.pdb
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.csproj.AssemblyReference.cache
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.AssemblyInfoInputs.cache
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.AssemblyInfo.cs
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.csproj.CoreCompileInputs.cache
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.dll
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\refint\OOP_AB2_6.dll
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.pdb
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\OOP_AB2_6.genruntimeconfig.cache
+C:\Users\migue\git_projects\oop\OOP_AB2_6\OOP_AB2_6\obj\Debug\net7.0\ref\OOP_AB2_6.dll
