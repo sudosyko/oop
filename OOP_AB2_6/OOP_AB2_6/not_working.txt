@@ -1,0 +1,49 @@
+// Funktioniert leider nicht!!!
+using static System.String;
+namespace OOP_AB2_6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Deklaration Variablen & Defaults
+            string Eingabe;
+            bool ValidierungAtzeichen;
+            bool ValidierungRecipient;
+            bool ValidierungDomainVorhanden;
+            bool ValidierungDomainKorrekt;
+
+            ValidierungAtzeichen = false;
+            ValidierungRecipient = false;
+            ValidierungDomainVorhanden = false;
+            ValidierungDomainKorrekt = false;
+
+            // Aufforderung zur Eingabe
+            while (ValidierungAtzeichen && ValidierungRecipient && )
+            {
+                Console.WriteLine("Bitte E-Mail Addresse Eingeben: ");
+                Eingabe = Console.ReadLine();
+
+                // Prüfung @ Zeichen
+                if (Eingabe.Contains('@'))
+                {
+                    ValidierungAtzeichen = true;
+                }
+                // Prüfung ob Empfänger vorhanden
+                if (Eingabe.StartsWith('@'))
+                {
+                    ValidierungRecipient = false;
+                }
+                // Prüfung ob Domain vorhanden
+                if (Eingabe.EndsWith('@'))
+                {
+                    ValidierungDomainVorhanden = false;
+                }
+                // Prüfung ob Domain korrekt
+                if (Eingabe.Contains('.') && Eingabe.IndexOf('@') < Eingabe.IndexOf('.'))
+                {
+                    ValidierungDomainKorrekt = true;
+                }
+            }
+    }
+}

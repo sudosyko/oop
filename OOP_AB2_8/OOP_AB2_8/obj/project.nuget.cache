@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aQpE2xMaQrHzGt8fc0afHuXswZrA7A7A6Z+MCyavAvY5Ks35MI4KTZHCQYZHI1oy4UT5tT+N/oPfJK5rJ5sag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_8\\OOP_AB2_8\\OOP_AB2_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\tsbe.codecracker\\1.0.0\\tsbe.codecracker.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
