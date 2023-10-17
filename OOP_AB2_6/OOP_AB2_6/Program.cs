@@ -42,7 +42,6 @@ namespace OOP_AB2_6
             {
                 Console.WriteLine("Es gibt ein @ Zeichen!");
             }
-
         }
     }
 }
