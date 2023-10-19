@@ -5,8 +5,6 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto_Runtime", "Lotto_Runtime\Lotto_Runtime.csproj", "{E80B5400-5A52-4658-958B-BD4BA3D46FF0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto_Generator", "..\Lotto_Generator\Lotto_Generator\Lotto_Generator.csproj", "{FAD4A6A1-49D4-46D2-9240-8C9F0F39C071}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{E80B5400-5A52-4658-958B-BD4BA3D46FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E80B5400-5A52-4658-958B-BD4BA3D46FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E80B5400-5A52-4658-958B-BD4BA3D46FF0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FAD4A6A1-49D4-46D2-9240-8C9F0F39C071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FAD4A6A1-49D4-46D2-9240-8C9F0F39C071}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FAD4A6A1-49D4-46D2-9240-8C9F0F39C071}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FAD4A6A1-49D4-46D2-9240-8C9F0F39C071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
