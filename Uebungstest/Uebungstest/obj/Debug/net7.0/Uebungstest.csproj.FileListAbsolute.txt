@@ -1,0 +1,15 @@
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.csproj.AssemblyReference.cache
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.AssemblyInfoInputs.cache
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.AssemblyInfo.cs
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.csproj.CoreCompileInputs.cache
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\bin\Debug\net7.0\Uebungstest.exe
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\bin\Debug\net7.0\Uebungstest.deps.json
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\bin\Debug\net7.0\Uebungstest.runtimeconfig.json
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\bin\Debug\net7.0\Uebungstest.dll
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\bin\Debug\net7.0\Uebungstest.pdb
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.dll
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\refint\Uebungstest.dll
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.pdb
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\Uebungstest.genruntimeconfig.cache
+C:\Users\migue\git_projects\oop\Uebungstest\Uebungstest\obj\Debug\net7.0\ref\Uebungstest.dll

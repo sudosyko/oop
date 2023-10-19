@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Lotto_Generator/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Lotto_Generator.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Lotto_Generator.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Lotto_Generator/1.0.0": {
-      "type": "project",
-      "path": "../../Lotto_Generator/Lotto_Generator/Lotto_Generator.csproj",
-      "msbuildProject": "../../Lotto_Generator/Lotto_Generator/Lotto_Generator.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Lotto_Generator >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\migue\\.nuget\\packages\\": {},
@@ -58,11 +39,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj": {
-              "projectPath": "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

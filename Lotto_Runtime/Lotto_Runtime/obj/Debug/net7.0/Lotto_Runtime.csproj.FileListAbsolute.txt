@@ -3,3 +3,13 @@ C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lot
 C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.AssemblyInfoInputs.cache
 C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.AssemblyInfo.cs
 C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.csproj.CoreCompileInputs.cache
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\bin\Debug\net7.0\Lotto_Runtime.exe
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\bin\Debug\net7.0\Lotto_Runtime.deps.json
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\bin\Debug\net7.0\Lotto_Runtime.runtimeconfig.json
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\bin\Debug\net7.0\Lotto_Runtime.dll
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\bin\Debug\net7.0\Lotto_Runtime.pdb
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.dll
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\refint\Lotto_Runtime.dll
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.pdb
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\Lotto_Runtime.genruntimeconfig.cache
+C:\Users\migue\git_projects\oop\Lotto_Runtime\Lotto_Runtime\obj\Debug\net7.0\ref\Lotto_Runtime.dll
