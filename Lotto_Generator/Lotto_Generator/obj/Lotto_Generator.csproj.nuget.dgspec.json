@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_7\\OOP_AB2_7\\OOP_AB2_7.csproj": {}
+    "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_7\\OOP_AB2_7\\OOP_AB2_7.csproj": {
+    "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_7\\OOP_AB2_7\\OOP_AB2_7.csproj",
-        "projectName": "OOP_AB2_7",
-        "projectPath": "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_7\\OOP_AB2_7\\OOP_AB2_7.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj",
+        "projectName": "Lotto_Generator",
+        "projectPath": "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\Lotto_Generator.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\git_projects\\oop\\OOP_AB2_7\\OOP_AB2_7\\obj\\",
+        "outputPath": "C:\\Users\\migue\\git_projects\\oop\\Lotto_Generator\\Lotto_Generator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

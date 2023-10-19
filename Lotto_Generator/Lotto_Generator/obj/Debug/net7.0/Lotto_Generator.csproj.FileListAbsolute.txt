@@ -1,0 +1,5 @@
+C:\Users\migue\git_projects\oop\Lotto_Generator\Lotto_Generator\obj\Debug\net7.0\Lotto_Generator.csproj.AssemblyReference.cache
+C:\Users\migue\git_projects\oop\Lotto_Generator\Lotto_Generator\obj\Debug\net7.0\Lotto_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\git_projects\oop\Lotto_Generator\Lotto_Generator\obj\Debug\net7.0\Lotto_Generator.AssemblyInfoInputs.cache
+C:\Users\migue\git_projects\oop\Lotto_Generator\Lotto_Generator\obj\Debug\net7.0\Lotto_Generator.AssemblyInfo.cs
+C:\Users\migue\git_projects\oop\Lotto_Generator\Lotto_Generator\obj\Debug\net7.0\Lotto_Generator.csproj.CoreCompileInputs.cache
