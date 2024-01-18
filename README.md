@@ -1,7 +1,7 @@
 # oop
 oop C# module course &amp; training repo 
 ## how to klasse hinzufügen
-Project > add class/ add existing Item (or copy it into Project Folder)
+Project > add class/ add existing Item (or copy it into Project Folder) oder in AB5 gut Dokumentiert 
 ## how to nuget packet hinzufügen
 Project > manage nuget Packages... > Zahnrad > + > Source: ... > Select Folder > Done
 
